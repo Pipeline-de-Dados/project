@@ -1,12 +1,12 @@
 # 📊 Pipeline de Dados: do Zero ao Estrelato
 
-Este projeto, fomentado pela **SoulCode Academy** como parte do trabalho final do **Bootcamp de Análise de Dados**, visa solucionar desafios no setor de **Recursos Humanos**, automatizando e estruturando dados por meio de um **pipeline eficiente**. Utilizando **Python**, **BigQuery** e **Power BI**, a solução melhora a **confiabilidade, escalabilidade** e **reduz custos operacionais**.
+Este projeto foi desenvolvido como parte do Bootcamp de Análise de Dados da SoulCode Academy, com o objetivo de aplicar técnicas avançadas de análise de dados na resolução de desafios reais do mercado. A iniciativa busca demonstrar como a automação e a estruturação de dados podem otimizar processos e gerar insights estratégicos para as empresas.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Desenvolvido para a **DM9**, este projeto busca **otimizar processos no setor de RH**, abordando desafios como a **fragmentação de dados** e a **execução de tarefas manuais**. Através de um **pipeline de dados**, a solução automatiza a coleta, estruturação e visualização das informações, utilizando **Python**, **BigQuery** e **Power BI**. Os impactos incluem:
+Criado para a DM9, o projeto foca na otimização dos processos do setor de Recursos Humanos, abordando desafios como a fragmentação de dados e a execução de tarefas manuais. Por meio de um pipeline eficiente utilizando Python, BigQuery e Power BI, a solução melhora a confiabilidade das informações, aumenta a escalabilidade e reduz custos operacionais. Os impactos incluem:
 
 ✅ **Maior eficiência** e **redução de custos operacionais**  
 ✅ **Melhoria na confiabilidade e escalabilidade** dos processos  

@@ -1,1 +1,3 @@
-# ⚠️ Dados Confidenciais\n\nOs dados utilizados neste projeto são sigilosos e não podem ser compartilhados publicamente.
+# ⚠️ Dados Confidenciais
+
+Os dados utilizados neste projeto são sigilosos e não podem ser compartilhados publicamente.
